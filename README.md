@@ -11,22 +11,14 @@ Challenge 2
 
 Challenge 3
 
-Challenge 4
-
-Challenge 5
-
-Challenge 6
-
-These challenges demonstrate JavaScript fundamentals, problem-solving skills, and algorithm implementation.
+# These challenges demonstrate JavaScript fundamentals, problem-solving skills, and algorithm implementation.
 
 # How to Run the Code
 
-Clone this repository:
+1. Clone this repository:
 
-git clone https://github.com/your-username/JavaScript-Coding-Challenges.git
+2. Navigate into the project folder:
 
-Navigate into the project folder:
+   cd : Js-week-1
 
-cd JavaScript-Coding-Challenges
-
-Open the JavaScript files in a code editor (e.g., VS Code) and run them using Node.js:
+3. Open the JavaScript files in a code editor (e.g., VS Code) and run them using Node.js:
